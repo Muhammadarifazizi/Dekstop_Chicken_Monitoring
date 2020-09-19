@@ -1,0 +1,9 @@
+D:\VBNet app\ayam\LoginLayered\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\VBNet app\ayam\LoginLayered\Common\bin\Debug\netstandard2.0\Common.dll
+D:\VBNet app\ayam\LoginLayered\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.vbprojAssemblyReference.cache
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.vbproj.CoreCompileInputs.cache
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.vb
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.dll
+D:\VBNet app\ayam\LoginLayered\Common\obj\Debug\netstandard2.0\Common.pdb
